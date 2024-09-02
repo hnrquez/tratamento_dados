@@ -46,7 +46,7 @@ function testar(){
                                                                 window.alert('hetero gente normal')
                                                             }else{
                                                                 if(nome.value.length>1&&nome.value[0]=='p'){
-                                                                    window.alert('cabra macho')
+                                                                    window.alert('viado que da o cu pra comer x-burguer')
                                                                 }else{
                                                                     if(nome.value.length>1&&nome.value[0]=='q'){
                                                                         window.alert('da o caneco no sigilo')
